@@ -27,7 +27,7 @@ This demo does not claim clinical accuracy. It is a simulation of interaction co
 - Modular C# scripts with focused responsibilities.
 
 ## Screenshot
-![Assistive AR Visual Guidance Prototype](media/screenshots/screenshot_guidance_view.png)
+![Assistive AR Visual Guidance Prototype](Media/screenshots/screenshot_guidance_view.png)
 
 ## Controls
 
