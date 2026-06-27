@@ -32,7 +32,7 @@ This demo does not claim clinical accuracy. It is a simulation of interaction co
 
 ## Demo Video
 
-[Watch the demo video](Media/demo/demo.mp4)
+[Download demo video (MP4)](Media/demo/demo.mp4)
 
 ## Controls
 
